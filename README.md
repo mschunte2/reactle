@@ -11,6 +11,7 @@ A WebXDC clone of the popular word guessing game Wordle.
 Clone the repository and perform the following command line actions:
 
 ```bash
+$> mkdire react-wordle
 $> cd react-wordle
 $> npm install
 $> npm run start
